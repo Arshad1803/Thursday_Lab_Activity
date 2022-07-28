@@ -1,7 +1,7 @@
-// Write a Java program that takes a number from the user and generates an integer between 1 and 7 and displays the name of the weekday.
+// Java program that takes a number from the user and generates an integer between 1 and 7 and displays the name of the weekday.
 
 import java.util.*;
-class Question1
+class WeekDay
 {
 	public static void main(String args[])
 	{
