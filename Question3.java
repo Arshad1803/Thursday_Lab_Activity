@@ -1,3 +1,5 @@
+// Write a Java program to display the pattern like right angle triangle with a number. 
+
 import java.util.*;
 class Question3
 {
