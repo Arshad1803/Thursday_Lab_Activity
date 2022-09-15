@@ -1,4 +1,4 @@
-// Program to display the numbers of characters, lines and words in a text file
+// Program to display the numbers of characters, lines and words in a text file.
 import java.io.*;
 
 public class ReadFile {
