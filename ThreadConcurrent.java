@@ -3,7 +3,7 @@
 class MyThread extends Thread
 
 {
-	String message[] = { "Java", "is", "hot,", "aromatic,", "and", "invigorating." };
+	String message[] = {"Java", "is", "hot,", "aromatic,", "and", "invigorating."};
 	public void run()
 	{
 		String name = getName();
