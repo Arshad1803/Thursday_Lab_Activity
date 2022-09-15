@@ -48,7 +48,7 @@ class CubeIntegerThread extends Thread{
 		System.out.println("Cube of the Integer " +randomInteger+ " is: " +(randomInteger * randomInteger * randomInteger));
 	}
 }
-public class ThreadRandomInteger {
+public class ThreadRandomInteger{
 
 	public static void main(String[] args) {
 		RandomInteger ri = new RandomInteger();
